@@ -47,6 +47,7 @@ These are examples of webtrees sites from around the world.  The list was last c
 * [Genealogia da Família Chiele](https://www.chiele.net)
 * [Généalogie de Noyon](http://familytree.noyon.org)
 * [Généalogie de la famille de Prelle de la Nieppe](http://genealogie.deprelledelanieppe.be)
+* [Généalogie des familles Hiernaux et alliés] (https://hiernaux.eu/genealogie)
 * [Généalogie des Lapierre d’Amérique](http://cnl-gla.ca/lapierre-amerique)
 * [Généalogie Dolman](http://www.dolman.fr)
 * [Généalogie du Pays Gallo (Morbihan, Ille-et-Vilaine / Bretagne)](https://paysgallo.webtrees.net)
